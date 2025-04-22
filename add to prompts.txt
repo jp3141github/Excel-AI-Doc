@@ -1,0 +1,6 @@
+3. Perform correlation analysis to uncover relationships among numerical variables.
+4. Execute in-depth exploratory data analysis for detailed insight extraction.
+5. Use statistical techniques like regression for prediction tasks and clustering for segmenting similar data points.
+6. Visualize the data via measures such as histograms, heatmaps, and time series plots for a deeper understanding.
+7. Based on the product and segment correlations, more detailed actuarial and pricing strategies can be developed.
+8. Carry out trend analysis to identify temporal patterns and predict future outcomes.
